@@ -4,14 +4,6 @@ Berisi catatan programming mengenai cara dan langkah dalam menyusun sistem.
 
 ## DAFTAR ISI
 
-- Android Java
-
-- PHP
-
-- MYSQL
-
-- PYTHON
-
-- C++
+- [WIKI](https://github.com/mrc24tx/catatan/wiki)
 
 
